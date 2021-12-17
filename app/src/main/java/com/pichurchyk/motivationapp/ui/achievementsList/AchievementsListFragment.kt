@@ -58,9 +58,13 @@ class AchievementsListFragment :
         }
 
         binding.submit.setOnClickListener {
-            viewModel.insertAchievement()
-            clearFocus()
-            binding.input.setText("")
+            if (!binding.input.text.isNullOrEmpty()) {
+                viewModel.insertAchievement()
+                clearFocus()
+                binding.input.setText("")
+            } else {
+                snackBar(requireView(), "Please input your achievement at first!")
+            }
         }
 
         lifecycleScope.launch {
