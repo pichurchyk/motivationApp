@@ -14,7 +14,7 @@ interface AchievementsDao {
     @Insert(onConflict = REPLACE)
     fun insertAchievement(achievement: AchievementEntity)
 
-    @Query("Select * from Achievements ORDER BY abs(date)")
+    @Query("Select * from Achievements ORDER BY date DESC")
     fun getAchievements() : Flow<List<AchievementEntity>>
 
     @Delete
