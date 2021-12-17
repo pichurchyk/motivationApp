@@ -12,10 +12,7 @@ import com.pichurchyk.motivationapp.ui.main.MainActivity
 class AlarmNotificationReceiver : BroadcastReceiver() {
     override fun onReceive(context: Context?, intent: Intent?) {
         val notification =
-            NotificationCompat.Builder(
-                context!!,
-                "0"
-            )
+            NotificationCompat.Builder(context!!, "0")
                 .setSmallIcon(R.drawable.ic_logo)
                 .setContentTitle("Get new motivation dose!")
                 .setContentText("New motivation quote is available now!")

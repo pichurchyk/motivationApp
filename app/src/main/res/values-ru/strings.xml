@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MotivationApp</string>
+    <string name="add_achievement_title">Главное достижение за сегодня</string>
+    <string name="your_achievements">Ваши достижения</string>
+    <string name="submit_new_goal">Новое достижение</string>>
+    <string name="your_daily_motivation">Ваша мотивация на сегодня</string>
+    <string name="notifications">Уведомления</string>
+    <string name="set_up_your_motivation_notifications">Настроить график уведомлений</string>
+</resources>
