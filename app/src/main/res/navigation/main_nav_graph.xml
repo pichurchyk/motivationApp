@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/motivationPageFragment">
+    <fragment
+        android:id="@+id/achievementsListFragment"
+        android:name="com.pichurchyk.motivationapp.ui.achievementsList.AchievementsListFragment"
+        android:label="AchievementsListFragment"
+        tools:layout="@layout/fragment_achievements_list">
+    </fragment>
+    <fragment
+        android:id="@+id/motivationPageFragment"
+        android:name="com.pichurchyk.motivationapp.ui.motivationPage.MotivationPageFragment"
+        android:label="MotivationPageFragment"
+        tools:layout="@layout/fragment_motivation_page"/>
+</navigation>

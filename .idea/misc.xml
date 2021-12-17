@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_bottom_menu.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_fragment_container.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_fragment_container_left_corner.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_fragment_container_right_corner.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_input.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_list_item_delete.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_menu.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_round_btn_green.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_round_btn_orange.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/bg_switch_tumb.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/ic_add.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/ic_done.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/ic_edit.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/ic_edit_end.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/ic_list.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/ic_logo.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/ic_quote.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/ic_remove.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/menu_style.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/switch_style.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/switch_thumb.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/drawable/switch_thumb_on.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/layout/achievement_item.xml" value="0.3543365455893254" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/layout/fragment_achievements_list.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/layout/fragment_add_new_achievement.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/layout/fragment_add_new_achievment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/layout/fragment_motivation_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/layout/fragment_splash_screen.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/layout/fragments_achievement_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/layout/time_picker.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MotivationApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3769230769230769" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

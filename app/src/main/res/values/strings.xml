@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MotivationApp</string>
+
+    <string name="add_achievement_title">Achievement of the day</string>
+    <string name="your_achievements">Your achievements</string>
+    <string name="submit_new_goal">Submit new goal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_daily_motivation">Your daily motivation</string>
+    <string name="notifications">Notifications</string>
+    <string name="set_up_your_motivation_notifications">Set up your motivation notifications</string>
+</resources>
